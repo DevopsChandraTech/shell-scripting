@@ -1,3 +1,3 @@
 #!/bin/bash
 read -p "enter your username : "
-read -p "enter your password : "
+read -p -s "enter your password : "
