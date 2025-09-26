@@ -29,7 +29,7 @@ echo "I am learning $COURSE in joindevops"
 
 # read variables for asking:
 
-read pls enter your name : 
+read 'pls enter your name :' 
 read PIN
 echo "the password is $PIN"
 
