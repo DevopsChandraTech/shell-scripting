@@ -30,8 +30,8 @@ echo "I am learning $COURSE in joindevops"
 # read variables for asking:
 
 read -p 'pls enter your name :' 
-read PIN
-echo "the password is $PIN"
+read -s PIN
+echo "the user pin number is $PIN"
 
 
 
