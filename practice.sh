@@ -18,3 +18,14 @@ echo "Hey $USER2 I am fine How are You"
 echo "I am good $USER1 what are you doing now"
 echo "I am learning $COURSE in joindevops" 
 
+# pass variables while running the script
+USER1=$1
+USER2=$2
+COURSE=$3
+echo "Hello $USER1 How are you"
+echo "Hey $USER2 I am fine How are You"
+echo "I am good $USER1 what are you doing now"
+echo "I am learning $COURSE in joindevops"
+
+
+
