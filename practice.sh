@@ -33,5 +33,8 @@ read -p 'pls enter your name :'
 read -s PIN
 echo "the user pin number is $PIN"
 
+# export varibles for temporary and perminant
+echo "C"
+
 
 

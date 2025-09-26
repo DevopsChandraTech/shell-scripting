@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "enter your course name : $COURSE"
+echo "enter your course name : $VILLAGE"
