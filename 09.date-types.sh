@@ -10,4 +10,4 @@ echo "the sum is : ${SUM}"
 #array = list of names
 LEADERS=("Modi" "Putin" "Chandra" "Pavan")
 
-echo "the leaders : ${LEADERS}[@]"
+echo "the leaders : ${LEADERS[@]}"
