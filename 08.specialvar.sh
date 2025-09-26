@@ -5,4 +5,5 @@ echo "Name of the script : $0"
 echo "Current directory : $PWD"
 echo "Current user running : $USER"
 echo "Process Id of the script : $$"
+echo ""
 date +%s
