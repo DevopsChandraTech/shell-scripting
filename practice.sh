@@ -27,5 +27,11 @@ echo "Hey $USER2 I am fine How are You"
 echo "I am good $USER1 what are you doing now"
 echo "I am learning $COURSE in joindevops"
 
+# read variables for asking:
+
+read "pls enter your name : $USERNAME "
+read "password : $PASSWORD "
+echo "the user username is $USERNAME and the password is $PASSWORD "
+
 
 
