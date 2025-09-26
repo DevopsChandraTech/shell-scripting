@@ -7,3 +7,7 @@ NAME=Chandra
 SUM=$(($NUMBER1 + $NUMBER2 + $NAME))
 
 echo "the sum is : ${SUM}"
+#array = list of names
+LEADERS=("Modi" "Putin" "Chandra" "Pavan")
+
+echo "the leaders : ${LEADERS}"
