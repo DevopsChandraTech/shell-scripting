@@ -5,9 +5,9 @@
 # -gt greaterthan
 # -eq equal
 # -nq not equal
-
-if [ $1 -lt 10 ] then
-    print("$1 less than 10")
+NUMBER=$1
+if [ $NUMBER -lt 10 ] then
+    print("given number less than 10")
 else
-    print("$1 greater than 10")
+    print("given number greater than 10")
 
