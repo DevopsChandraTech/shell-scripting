@@ -7,7 +7,7 @@
 # -nq not equal
 NUMBER=$1
 if [ $NUMBER -lt 10 ] then
-    print("given number less than 10")
+    echo "given number less than 10"
 else
-    print("given number greater than 10")
+    echo "given number greater than 10"
 
